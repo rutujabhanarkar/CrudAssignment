@@ -39,6 +39,9 @@ dependencies:
   firebase_core: ^2.8.0
   firebase_storage: ^11.0.16
   get: ^4.6.5
+  file_picker: ^5.2.6
+  cached_network_image: ^3.2.3
+  intl: ^0.18.0
 
 dev_dependencies:
   flutter_test:
